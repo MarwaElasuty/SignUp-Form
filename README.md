@@ -89,4 +89,4 @@ A foundation for building larger, real-world React apps
 
 ```bash
 npm install
-
+npm run dev
